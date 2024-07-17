@@ -1,0 +1,16 @@
+{
+  "name": "digisac-tv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Jhonatas Siqueira",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^22.13.1"
+  }
+}
